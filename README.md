@@ -18,4 +18,4 @@
 <p align="center"> ಄ вє ѕυяє тσ ѕιgη ѕтяαωραgє αη∂ αтα вєƒσяє уσυ ℓєανє...👀
 <p align="center"> ≿━━━━━━━━━━━༺ ⊱⋆⊰ ༻━━━━━━━━━━━≾
 
-<p align="center"><img width="2048" height="327" alt="Image" src="https://github.com/user-attachments/assets/c8183afd-306b-4b7b-a6a5-23750fd681d8" />
+<p align="center"><img width="1080" height="74" alt="Image" src="https://github.com/user-attachments/assets/9cce7cc2-0245-4872-bfea-760b75d32c81" />
