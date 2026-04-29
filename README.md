@@ -1,3 +1,5 @@
+<p align="center"><img width="736" height="126" alt="Image" src="https://github.com/user-attachments/assets/4d5470cc-f772-4819-8ed0-d53cdbc3788b" />
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CheckeredGhvst&color=9cb8e6" alt="Visitor Counter" />
 </p>
