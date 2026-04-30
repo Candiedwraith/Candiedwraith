@@ -17,4 +17,4 @@
 <p align="center"> ಄ вє ѕυяє тσ ѕιgη ѕтяαωραgє αη∂ αтα вєƒσяє уσυ ℓєανє...👀
 <p align="center"> ≿━━━━━━━━━━━༺ ⊱⋆⊰ ༻━━━━━━━━━━━≾
 
-<p align="center"><img width="1080" height="74" alt="Image" src="https://github.com/user-attachments/assets/9cce7cc2-0245-4872-bfea-760b75d32c81" />
+<p align="center"><img width="600" height="55" alt="Image" src="https://github.com/user-attachments/assets/9cce7cc2-0245-4872-bfea-760b75d32c81" />
