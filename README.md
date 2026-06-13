@@ -5,6 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=CheckeredGhvst&color=9cb8e6" alt="Visitor Counter" />
 </p>
 <p align="center">╭───────────────────.★..─╮
+<p align="center"> I will not be playing pony town as much anymore.
 <p align="center"> .✦ 𝔗𝔥𝔦𝔰 𝔦𝔰 𝔣𝔬𝔯 𝔭𝔬𝔫𝔶 𝔱𝔬𝔴𝔫 𝔬𝔫𝔩𝔶 ݁˖
 <p align="center">  ⋆⁺₊⋆ ━━━━⊱༒︎ • ༒︎⊰━━━━ ⋆⁺₊⋆
 <p align="center"> ❅ ᴄᴀʟʟ ᴍᴇ ɢʜᴏsᴛ ᴏʀ ᴡʀᴀɪᴛʜ, ᴀɴʏ ɪs ғɪɴᴇ ❅
