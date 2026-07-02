@@ -1,5 +1,5 @@
-<p align="center"><img width="552" height="94" alt="Image" src="https://github.com/user-attachments/assets/1e53f441-f490-49ec-9bd8-b26764b65e34" />
-<p align="center"><img width="306" height="33" alt="Image" src="https://github.com/user-attachments/assets/9f12951f-72d6-494b-80f7-a534a339e1a7" />
+<img width="1364" height="183" alt="Image" src="https://github.com/user-attachments/assets/6adb7998-604a-428e-9874-8031c1760c61" />
+<p align="center"> WIP
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CheckeredGhvst&color=9cb8e6" alt="Visitor Counter" />
