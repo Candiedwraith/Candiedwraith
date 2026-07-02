@@ -11,5 +11,5 @@
   <img src="https://komarev.com/ghpvc/?username=CheckeredGhvst&color=9cb8e6" alt="Visitor Counter" />
 </p>
 
-WIP
+[ɢᴜɴs.ʟᴏʟ](https://guns.lol/candiedwraith) ✮ [ᴘʀᴏɴᴏᴜɴs.ᴄᴄ](https://en.pronouns.page/@Candied_Wraith) ✮ [ᴀᴛᴀʙᴏᴏᴋ](https://candywraith.atabook.org/) 
 
