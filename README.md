@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=CheckeredGhvst&color=9cb8e6" alt="Visitor Counter" /> </p>
 
 
-‎.ꔫ <img src="https://github.com/Candiedwraith/Candiedwraith/blob/fa23261f6fb69b0d6059dd5fb6790170b9310340/soda.webp" witdh="35" height="35" /> ⏔⏔⏔✿⏔⏔⏔ [ɢᴜɴs.ʟᴏʟ](https://guns.lol/candiedwraith) <img src="https://github.com/Candiedwraith/Candiedwraith/blob/fa23261f6fb69b0d6059dd5fb6790170b9310340/soda.webp" witdh="35" height="35" /> [ᴘʀᴏɴᴏᴜɴs.ᴄᴄ](https://en.pronouns.page/@Candied_Wraith) ✮ [ᴀᴛᴀʙᴏᴏᴋ](https://candywraith.atabook.org/) ⏔⏔⏔✿⏔⏔⏔ <img src="https://github.com/Candiedwraith/Candiedwraith/blob/fa23261f6fb69b0d6059dd5fb6790170b9310340/soda.webp" witdh="35" height="35" /> ꔫ.
+‎.ꔫ <img src="https://github.com/Candiedwraith/Candiedwraith/blob/fa23261f6fb69b0d6059dd5fb6790170b9310340/soda.webp" witdh="35" height="35" /> ⏔⏔⏔✿⏔⏔⏔ [ɢᴜɴs.ʟᴏʟ](https://guns.lol/candiedwraith) <img src="https://github.com/Candiedwraith/Candiedwraith/blob/9c79ab945602ab5f1f20398ab25fb95642fa3da0/wings.gif" witdh="35" height="30" /> [ᴘʀᴏɴᴏᴜɴs.ᴄᴄ](https://en.pronouns.page/@Candied_Wraith) <img src="https://github.com/Candiedwraith/Candiedwraith/blob/9c79ab945602ab5f1f20398ab25fb95642fa3da0/wings.gif" witdh="35" height="30" /> [ᴀᴛᴀʙᴏᴏᴋ](https://candywraith.atabook.org/) ⏔⏔⏔✿⏔⏔⏔ <img src="https://github.com/Candiedwraith/Candiedwraith/blob/fa23261f6fb69b0d6059dd5fb6790170b9310340/soda.webp" witdh="35" height="35" /> ꔫ.
 
 
 currently in wip
