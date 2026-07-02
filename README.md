@@ -8,10 +8,10 @@
 <p>  <img align="center" src="https://github.com/Candiedwraith/Candiedwraith/blob/18bedec46c3e7c3821437aa03e5f5efc0609db80/Starss.webp" witdh="14" height="14"> </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CheckeredGhvst&color=9cb8e6" alt="Visitor Counter" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=CheckeredGhvst&color=9cb8e6" alt="Visitor Counter" /> </p>
 
-[ɢᴜɴs.ʟᴏʟ](https://guns.lol/candiedwraith) ✮ [ᴘʀᴏɴᴏᴜɴs.ᴄᴄ](https://en.pronouns.page/@Candied_Wraith) ✮ [ᴀᴛᴀʙᴏᴏᴋ](https://candywraith.atabook.org/) 
+
+‎<img src="https://github.com/Candiedwraith/Candiedwraith/blob/fa23261f6fb69b0d6059dd5fb6790170b9310340/soda.webp" witdh="35" height="35" /> [ɢᴜɴs.ʟᴏʟ](https://guns.lol/candiedwraith) ✮ [ᴘʀᴏɴᴏᴜɴs.ᴄᴄ](https://en.pronouns.page/@Candied_Wraith) ✮ [ᴀᴛᴀʙᴏᴏᴋ](https://candywraith.atabook.org/) <img src="https://github.com/Candiedwraith/Candiedwraith/blob/fa23261f6fb69b0d6059dd5fb6790170b9310340/soda.webp" witdh="35" height="35" />
 
 
 currently in wip
