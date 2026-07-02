@@ -11,12 +11,12 @@
 
 <p align="center"> <img width="400" height="400" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/fa7a8f94f1b5cda72b56cf71e42c5d3facbaaf0a/welcometext.png" /> 
 
-<p align="center"> <img width="500" height="300" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/7f894651247de742c453127e706b88330ebc41a9/starfall.webp" />
+<p align="center"> <img width="550" height="300" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/9bc36da1ea35df7da15aca2a4fe0002212e52199/blueandyellowstar.webp" />
 
 <p align="center"> ᨳ ʜᴇʟʟᴏᴏᴏ! ᴍʏ ɴᴀᴍᴇ ɪs ɢʜᴏsᴛ, ʙᴜᴛ ʏᴏᴜ ᴄᴀɴ ᴄᴀʟʟ ᴍᴇ ᴡʀᴀɪᴛʜ ᴏʀ ᴠᴀɴɴʏ ᴛᴏᴏ!!
 <p align="center"> ✮ ɪ'ᴍ ɴᴏᴛ ʀᴇᴀʟʟʏ ᴄᴏᴍғᴏʀᴛᴀʙʟᴇ ᴡɪᴛʜ sʜᴀʀɪɴɢ ᴍʏ ᴀɢᴇ, ʙᴜᴛ ɪ ᴀᴍ ᴀ ᴍɪɴᴏʀ!
 
 ‎.ꔫ <img src="https://github.com/Candiedwraith/Candiedwraith/blob/fa23261f6fb69b0d6059dd5fb6790170b9310340/soda.webp" witdh="35" height="35" /> ⏔⏔⏔✿⏔⏔⏔ [𝔊𝔲𝔫𝔰.𝔩𝔬𝔩](https://guns.lol/candiedwraith) <img src="https://github.com/Candiedwraith/Candiedwraith/blob/d77759336848289af0f9fd5d98232d8edb5c9032/smallstar.png" witdh="25" height="20" /> [𝒫𝔯𝔬𝔫𝔬𝔲𝔫𝔰.𝔠𝔠](https://en.pronouns.page/@Candied_Wraith) <img src="https://github.com/Candiedwraith/Candiedwraith/blob/d77759336848289af0f9fd5d98232d8edb5c9032/smallstar.png" witdh="25" height="20" /> [𝔄𝔱𝔞𝔟𝔬𝔬𝚔](https://candywraith.atabook.org/) ⏔⏔⏔✿⏔⏔⏔ <img src="https://github.com/Candiedwraith/Candiedwraith/blob/fa23261f6fb69b0d6059dd5fb6790170b9310340/soda.webp" witdh="35" height="35" /> ꔫ.
 
-
+<p align="center"> <img width="500" height="300" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/7f894651247de742c453127e706b88330ebc41a9/starfall.webp" />
 currently in wip
