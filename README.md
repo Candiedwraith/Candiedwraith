@@ -10,6 +10,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CheckeredGhvst&color=9cb8e6" alt="Visitor Counter" /> </p>
 
+<p align="center"> 
+
 
 ‎.ꔫ <img src="https://github.com/Candiedwraith/Candiedwraith/blob/fa23261f6fb69b0d6059dd5fb6790170b9310340/soda.webp" witdh="35" height="35" /> ⏔⏔⏔✿⏔⏔⏔ [𝔊𝔲𝔫𝔰.𝔩𝔬𝔩](https://guns.lol/candiedwraith) <img src="https://github.com/Candiedwraith/Candiedwraith/blob/d77759336848289af0f9fd5d98232d8edb5c9032/smallstar.png" witdh="25" height="20" /> [𝒫𝔯𝔬𝔫𝔬𝔲𝔫𝔰.𝔠𝔠](https://en.pronouns.page/@Candied_Wraith) <img src="https://github.com/Candiedwraith/Candiedwraith/blob/d77759336848289af0f9fd5d98232d8edb5c9032/smallstar.png" witdh="25" height="20" /> [𝔄𝔱𝔞𝔟𝔬𝔬𝚔](https://candywraith.atabook.org/) ⏔⏔⏔✿⏔⏔⏔ <img src="https://github.com/Candiedwraith/Candiedwraith/blob/fa23261f6fb69b0d6059dd5fb6790170b9310340/soda.webp" witdh="35" height="35" /> ꔫ.
 
