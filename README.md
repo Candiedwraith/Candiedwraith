@@ -11,7 +11,7 @@
 
 <p align="center"> <img width="400" height="400" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/fa7a8f94f1b5cda72b56cf71e42c5d3facbaaf0a/welcometext.png" /> 
 
-<p align="center"> <img width="550" height="300" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/9bc36da1ea35df7da15aca2a4fe0002212e52199/blueandyellowstar.webp" />
+<p align="center"> <img width="500" height="300" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/9bc36da1ea35df7da15aca2a4fe0002212e52199/blueandyellowstar.webp" />
 
 <p align="center"> <img src="https://github.com/Candiedwraith/Candiedwraith/blob/b6787108d18d22dadfb11c2be08a8f6f3bcf06bd/pink.png" witdh="20" height="20" /> ʜᴇʟʟᴏᴏᴏ! ᴍʏ ɴᴀᴍᴇ ɪs ɢʜᴏsᴛ, ʙᴜᴛ ʏᴏᴜ ᴄᴀɴ ᴄᴀʟʟ ᴍᴇ ᴡʀᴀɪᴛʜ ᴏʀ ᴠᴀɴɴʏ ᴛᴏᴏ!!
 <p align="center"> <img src="https://github.com/Candiedwraith/Candiedwraith/blob/b6787108d18d22dadfb11c2be08a8f6f3bcf06bd/pink.png" witdh="20" height="20" /> ɪ'ᴍ ɴᴏᴛ ʀᴇᴀʟʟʏ ᴄᴏᴍғᴏʀᴛᴀʙʟᴇ ᴡɪᴛʜ sʜᴀʀɪɴɢ ᴍʏ ᴀɢᴇ, ʙᴜᴛ ɪ ᴀᴍ ᴀ ᴍɪɴᴏʀ!
