@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=CheckeredGhvst&color=9cb8e6" alt="Visitor Counter" /> </p>
 
 
-‎<img src="https://github.com/Candiedwraith/Candiedwraith/blob/fa23261f6fb69b0d6059dd5fb6790170b9310340/soda.webp" witdh="35" height="35" /> [ɢᴜɴs.ʟᴏʟ](https://guns.lol/candiedwraith) ✮ [ᴘʀᴏɴᴏᴜɴs.ᴄᴄ](https://en.pronouns.page/@Candied_Wraith) ✮ [ᴀᴛᴀʙᴏᴏᴋ](https://candywraith.atabook.org/) <img src="https://github.com/Candiedwraith/Candiedwraith/blob/fa23261f6fb69b0d6059dd5fb6790170b9310340/soda.webp" witdh="35" height="35" />
+‎ꔫ <img src="https://github.com/Candiedwraith/Candiedwraith/blob/fa23261f6fb69b0d6059dd5fb6790170b9310340/soda.webp" witdh="35" height="35" /> ⏔⏔⏔✿⏔⏔⏔ [ɢᴜɴs.ʟᴏʟ](https://guns.lol/candiedwraith) ✮ [ᴘʀᴏɴᴏᴜɴs.ᴄᴄ](https://en.pronouns.page/@Candied_Wraith) ✮ [ᴀᴛᴀʙᴏᴏᴋ](https://candywraith.atabook.org/) ⏔⏔⏔✿⏔⏔⏔ <img src="https://github.com/Candiedwraith/Candiedwraith/blob/fa23261f6fb69b0d6059dd5fb6790170b9310340/soda.webp" witdh="35" height="35" />
 
 
 currently in wip
