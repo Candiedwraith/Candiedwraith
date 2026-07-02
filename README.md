@@ -13,3 +13,5 @@
 
 [ɢᴜɴs.ʟᴏʟ](https://guns.lol/candiedwraith) ✮ [ᴘʀᴏɴᴏᴜɴs.ᴄᴄ](https://en.pronouns.page/@Candied_Wraith) ✮ [ᴀᴛᴀʙᴏᴏᴋ](https://candywraith.atabook.org/) 
 
+
+currently in wip
