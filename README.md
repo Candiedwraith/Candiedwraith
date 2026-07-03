@@ -1,5 +1,3 @@
-<p align="center"> <img width="400" height="400" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/145c36423372435eea50eb2c5050633a79ecb9ae/text.png" />
-
 <img width="1364" height="183" alt="Image" src="https://github.com/user-attachments/assets/6adb7998-604a-428e-9874-8031c1760c61" />
 
 <img align="right" src="https://github.com/Candiedwraith/Candiedwraith/blob/f46d82cb14e36653e8359050b0c6295670c35d7a/tenna.png" witdh="380" height="420">
@@ -31,10 +29,10 @@
 
 <p align="center"> <img src="https://github.com/Candiedwraith/Candiedwraith/blob/65f47f78e3dd55a5a0300434067b26623778c975/clouds.png" witdh="20" height="20" /> $\color{#ed6d66}{ℑ'𝔪}$ $\color{#f2a572}{𝔳𝔢𝔯𝔶}$ $\color{#f2d972}{𝔬𝔭𝔢𝔫}$ $\color{#b8db67}{𝔱𝔬}$ $\color{#92cf5d}{𝔪𝔞к𝔦𝔫𝔤}$ $\color{#5dcf6a}{𝔫𝔢𝔴}$ $\color{#65e0a9}{𝔣𝔯𝔦𝔢𝔫𝔡𝔰!}$ $\color{#65e0d6}{𝔅𝔲𝔱,}$ $\color{#65bfe0}{ℑ'𝔪}$ $\color{#659ae0}{𝔫𝔬𝔱}$ $\color{#535cc9}{𝔩𝔬𝔬к𝔦𝔫𝔤}$ $\color{#8053c9}{𝔣𝔬𝔯}$ $\color{#ac53c9}{𝔞𝔫𝔶}$ $\color{#c953c5}{𝔯𝔬𝔪𝔞𝔫𝔱𝔦𝔠}$ $\color{#cc419e}{𝔯𝔢𝔩𝔞𝔱𝔦𝔬𝔫𝔰𝔥𝔦𝔭𝔰.}$ </p>
 
-<p align="center"> <img src="https://github.com/Candiedwraith/Candiedwraith/blob/65f47f78e3dd55a5a0300434067b26623778c975/clouds.png" witdh="20" height="20" /> $\color{#ed6d66}{ℍ𝔢𝔞𝔳𝔶}$ $\color{#f2a572}{𝔱𝔬𝔲𝔠𝔥}$ $\color{#f2d972}{𝔠𝔬𝔪𝔣𝔬𝔯𝔱,}$ $\color{#b8db67}{ℭ+ℍ}$ $\color{#92cf5d}{𝔞𝔩𝔴𝔞𝔶𝔰!}$ </p>
-
-<p align="center"> <img width="400" height="300" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/02bf25eacbc87218d86b99d44faa9318b3c461c3/bubbles.webp" />
+<p align="center"> <img width="400" height="400" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/600b301ad52cc69eba98f4559fa8237ca556723e/vibrantrainbow.webp" />
 
 <p align="center"> <img src="https://github.com/Candiedwraith/Candiedwraith/blob/65f47f78e3dd55a5a0300434067b26623778c975/clouds.png" witdh="20" height="20" /> $\color{#ed6d66}{𝓟𝔩𝔢𝔞𝔰𝔢}$ $\color{#f2a572}{𝔡𝔬𝔫'𝔱}$ $\color{#f2d972}{𝔠𝔬𝔭𝔶}$ $\color{#b8db67}{𝔪𝔶}$ $\color{#92cf5d}{𝔭𝔬𝔫𝔦𝔢𝔰.}$ $\color{#5dcf6a}{𝔏𝔦𝔤𝔥𝔱}$ $\color{#65e0a9}{𝔦𝔫𝔰𝔭𝔬}$ $\color{#65e0d6}{𝔦𝔰}$ $\color{#65bfe0}{𝔬к𝔞𝔶,}$ $\color{#659ae0}{𝔱𝔥𝔬𝔲𝔤𝔥!}$ </p>
+
+<p align="center"> <img width="400" height="300" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/02bf25eacbc87218d86b99d44faa9318b3c461c3/bubbles.webp" />
 
 <p align="center"> <img src="https://github.com/Candiedwraith/Candiedwraith/blob/65f47f78e3dd55a5a0300434067b26623778c975/clouds.png" witdh="20" height="20" /> $\color{#ed6d66}{ℑ𝔣}$ $\color{#f2a572}{ℑ}$ $\color{#f2d972}{𝔡𝔬𝔫'𝔱}$ $\color{#b8db67}{𝔯𝔢𝔰𝔭𝔬𝔫𝔡,}$ $\color{#92cf5d}{ℑ'𝔪}$ $\color{#5dcf6a}{𝔭𝔯𝔬𝔟𝔞𝔟𝔩𝔶}$ $\color{#65e0a9}{𝔸𝔽𝕂/𝔬𝔣𝔣𝔱𝔞𝔟.}$ $\color{#65e0d6}{𝔚𝔥𝔦𝔰𝔭𝔢𝔯}$ $\color{#65bfe0}{𝔪𝔢}$ $\color{#659ae0}{𝔬𝔯}$ $\color{#535cc9}{𝔴𝔞𝔦𝔱}$ $\color{#8053c9}{𝔲𝔫𝔱𝔦𝔩}$ $\color{#ac53c9}{ℑ}$ $\color{#c953c5}{𝔤𝔢𝔱}$ $\color{#cc419e}{𝔟𝔞𝔠к!}$ </p>
