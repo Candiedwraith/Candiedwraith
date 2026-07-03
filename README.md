@@ -18,9 +18,8 @@
 
 <p align="center"> <img width="500" height="400" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/0054fcff4c5f2213c73f6d649a48cbf3b46cb6ab/rainbow.webp" /> 
 
-‎.ꔫ <img src="https://github.com/Candiedwraith/Candiedwraith/blob/fa23261f6fb69b0d6059dd5fb6790170b9310340/soda.webp" witdh="35" height="35" /> ⏔⏔⏔✿⏔⏔⏔ [𝔊𝔲𝔫𝔰.𝔩𝔬𝔩](https://guns.lol/candiedwraith) <img src="https://github.com/Candiedwraith/Candiedwraith/blob/d77759336848289af0f9fd5d98232d8edb5c9032/smallstar.png" witdh="25" height="20" /> [𝒫𝔯𝔬𝔫𝔬𝔲𝔫𝔰.𝔠𝔠](https://en.pronouns.page/@Candied_Wraith) <img src="https://github.com/Candiedwraith/Candiedwraith/blob/d77759336848289af0f9fd5d98232d8edb5c9032/smallstar.png" witdh="25" height="20" /> [𝔄𝔱𝔞𝔟𝔬𝔬𝚔](https://candywraith.atabook.org/) ⏔⏔⏔✿⏔⏔⏔ <img src="https://github.com/Candiedwraith/Candiedwraith/blob/fa23261f6fb69b0d6059dd5fb6790170b9310340/soda.webp" witdh="35" height="35" /> ꔫ.
-
 <p align="left"> <img width="300" height="400" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/fe6a991b4fa1cb5b5eb7f8263d6e69f0e8254dda/spamton.png" />
 
-<p>  <img align="right" src="https://github.com/Candiedwraith/Candiedwraith/blob/7f894651247de742c453127e706b88330ebc41a9/starfall.webp" witdh="400" height="200"> </p>
+<p>  <img align="center" src="https://github.com/Candiedwraith/Candiedwraith/blob/7f894651247de742c453127e706b88330ebc41a9/starfall.webp" witdh="400" height="200"> </p>
 
+.ꔫ <img src="https://github.com/Candiedwraith/Candiedwraith/blob/fa23261f6fb69b0d6059dd5fb6790170b9310340/soda.webp" witdh="35" height="35" /> ⏔⏔⏔✿⏔⏔⏔ [𝔊𝔲𝔫𝔰.𝔩𝔬𝔩](https://guns.lol/candiedwraith) <img src="https://github.com/Candiedwraith/Candiedwraith/blob/d77759336848289af0f9fd5d98232d8edb5c9032/smallstar.png" witdh="25" height="20" /> [𝒫𝔯𝔬𝔫𝔬𝔲𝔫𝔰.𝔠𝔠](https://en.pronouns.page/@Candied_Wraith) <img src="https://github.com/Candiedwraith/Candiedwraith/blob/d77759336848289af0f9fd5d98232d8edb5c9032/smallstar.png" witdh="25" height="20" /> [𝔄𝔱𝔞𝔟𝔬𝔬𝚔](https://candywraith.atabook.org/) ⏔⏔⏔✿⏔⏔⏔ <img src="https://github.com/Candiedwraith/Candiedwraith/blob/fa23261f6fb69b0d6059dd5fb6790170b9310340/soda.webp" witdh="35" height="35" /> ꔫ.
