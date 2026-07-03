@@ -1,4 +1,4 @@
-
+<p align="center"> <img width="400" height="400" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/145c36423372435eea50eb2c5050633a79ecb9ae/text.png" />
 
 <img width="1364" height="183" alt="Image" src="https://github.com/user-attachments/assets/6adb7998-604a-428e-9874-8031c1760c61" />
 
