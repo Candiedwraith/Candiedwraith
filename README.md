@@ -25,6 +25,10 @@
 
 <img align="left" src="https://github.com/Candiedwraith/Candiedwraith/blob/16cbd4d639f28ff4743b84c843d9dface12f7207/spammy.png" witdh="300" height="400">
 
-<p>  <img align="center" src="https://github.com/Candiedwraith/Candiedwraith/blob/cafc410dc9372eb9801dfa47fa29478792dd2c9f/wormtenna.png" witdh="200" height="60"> </p>
+<p align="center"> <img width="400" height="300" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/cafc410dc9372eb9801dfa47fa29478792dd2c9f/wormtenna.png" />
 
 <p align="center"> <img src="https://github.com/Candiedwraith/Candiedwraith/blob/65f47f78e3dd55a5a0300434067b26623778c975/clouds.png" witdh="20" height="20" /> $\color{#ed6d66}{ℑ'𝔪}$ $\color{#f2a572}{𝔳𝔢𝔯𝔶}$ $\color{#f2d972}{𝔬𝔭𝔢𝔫}$ $\color{#b8db67}{𝔱𝔬}$ $\color{#92cf5d}{𝔪𝔞к𝔦𝔫𝔤}$ $\color{#5dcf6a}{𝔫𝔢𝔴}$ $\color{#65e0a9}{𝔣𝔯𝔦𝔢𝔫𝔡𝔰!}$ $\color{#65e0d6}{𝔅𝔲𝔱,}$ $\color{#65bfe0}{ℑ'𝔪}$ $\color{#659ae0}{𝔫𝔬𝔱}$ $\color{#535cc9}{𝔩𝔬𝔬к𝔦𝔫𝔤}$ $\color{#8053c9}{𝔣𝔬𝔯}$ $\color{#ac53c9}{𝔞𝔫𝔶}$ $\color{#c953c5}{𝔯𝔬𝔪𝔞𝔫𝔱𝔦𝔠}$ $\color{#cc419e}{𝔯𝔢𝔩𝔞𝔱𝔦𝔬𝔫𝔰𝔥𝔦𝔭𝔰.}$ </p>
+
+
+
+<p align="center"> <img width="400" height="300" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/02bf25eacbc87218d86b99d44faa9318b3c461c3/bubbles.webp" />
