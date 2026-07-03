@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/Candiedwraith/Candiedwraith/blob/f46d82cb14e36653e8359050b0c6295670c35d7a/tenna.png" witdh="380" height="420">
 
-<p>  <img align="center" src="https://github.com/Candiedwraith/Candiedwraith/blob/8a4a85e3bdf9900eff715476c2a5ca971af50cca/Rainbow%20clouds.png" witdh="110" height="40"> </p>
+<p align="center"> <img width="550" height="550" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/8a4a85e3bdf9900eff715476c2a5ca971af50cca/Rainbow%20clouds.png" />
 
 <p>  <img align="center" src="https://github.com/Candiedwraith/Candiedwraith/blob/18bedec46c3e7c3821437aa03e5f5efc0609db80/Starss.webp" witdh="14" height="14"> </p>
 
