@@ -15,7 +15,7 @@
 
 <p align="center"> <img width="500" height="300" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/9bc36da1ea35df7da15aca2a4fe0002212e52199/blueandyellowstar.webp" />
 
-<p align="center"> <img src="https://github.com/Candiedwraith/Candiedwraith/blob/b6787108d18d22dadfb11c2be08a8f6f3bcf06bd/pink.png" witdh="20" height="20" /> $\color{#ed6d66}{ℌ𝔢𝔩𝔩𝔬𝔬𝔬!}$ $\color{#f2a572}{𝔐𝔶}$ $\color{#f2d972}{𝔫𝔞𝔪𝔢}$ $\color{#b8db67}{𝔦𝔰}$ $\color{#92cf5d}{𝔊𝔥𝔬𝔰𝔱,}$ $\color{#5dcf6a}{𝔟𝔲𝔱}$ $\color{#65e0a9}{𝔶𝔬𝔲}$ $\color{#65e0d6}{𝔠𝔞𝔫}$ $\color{#65bfe0}{𝔠𝔞𝔩𝔩}$ $\color{#659ae0}{𝔪𝔢}$ $\color{#535cc9}{𝔚𝔯𝔞𝔦𝔱𝔥}$ $\color{#8053c9}{𝔬𝔯}$ $\color{#ac53c9}{𝕍𝔞𝔫𝔫𝔶}$ $\color{#c953c5}{𝔱𝔬𝔬!}$
+<p align="center"> <img src="https://github.com/Candiedwraith/Candiedwraith/blob/b6787108d18d22dadfb11c2be08a8f6f3bcf06bd/pink.png" witdh="20" height="20" /> $\color{#ed6d66}{ℍ𝔢𝔩𝔩𝔬𝔬𝔬!}$ $\color{#f2a572}{𝔐𝔶}$ $\color{#f2d972}{𝔫𝔞𝔪𝔢}$ $\color{#b8db67}{𝔦𝔰}$ $\color{#92cf5d}{𝔊𝔥𝔬𝔰𝔱,}$ $\color{#5dcf6a}{𝔟𝔲𝔱}$ $\color{#65e0a9}{𝔶𝔬𝔲}$ $\color{#65e0d6}{𝔠𝔞𝔫}$ $\color{#65bfe0}{𝔠𝔞𝔩𝔩}$ $\color{#659ae0}{𝔪𝔢}$ $\color{#535cc9}{𝔚𝔯𝔞𝔦𝔱𝔥}$ $\color{#8053c9}{𝔬𝔯}$ $\color{#ac53c9}{𝕍𝔞𝔫𝔫𝔶}$ $\color{#c953c5}{𝔱𝔬𝔬!}$
   
 <p align="center"> <img src="https://github.com/Candiedwraith/Candiedwraith/blob/b6787108d18d22dadfb11c2be08a8f6f3bcf06bd/pink.png" witdh="20" height="20" />  $\color{#ed6d66}{ℑ'𝔪}$ $\color{#f2a572}{𝔫𝔬𝔱}$ $\color{#f2d972}{𝔯𝔢𝔞𝔩𝔩𝔶}$ $\color{#b8db67}{𝔠𝔬𝔪𝔣𝔬𝔯𝔱𝔞𝔟𝔩𝔢}$ $\color{#92cf5d}{𝔴𝔦𝔱𝔥}$ $\color{#5dcf6a}{𝔰𝔥𝔞𝔯𝔦𝔫𝔤}$ $\color{#65e0a9}{𝔪𝔶}$ $\color{#65e0d6}{𝔞𝔤𝔢,}$ $\color{#65bfe0}{𝔟𝔲𝔱}$ $\color{#659ae0}{ℑ}$ $\color{#535cc9}{𝔞𝔪}$ $\color{#8053c9}{𝔞}$ $\color{#ac53c9}{𝔪𝔦𝔫𝔬𝔯!}$
 
@@ -31,6 +31,7 @@
 
 <p align="center"> <img src="https://github.com/Candiedwraith/Candiedwraith/blob/65f47f78e3dd55a5a0300434067b26623778c975/clouds.png" witdh="20" height="20" /> $\color{#ed6d66}{ℑ'𝔪}$ $\color{#f2a572}{𝔳𝔢𝔯𝔶}$ $\color{#f2d972}{𝔬𝔭𝔢𝔫}$ $\color{#b8db67}{𝔱𝔬}$ $\color{#92cf5d}{𝔪𝔞к𝔦𝔫𝔤}$ $\color{#5dcf6a}{𝔫𝔢𝔴}$ $\color{#65e0a9}{𝔣𝔯𝔦𝔢𝔫𝔡𝔰!}$ $\color{#65e0d6}{𝔅𝔲𝔱,}$ $\color{#65bfe0}{ℑ'𝔪}$ $\color{#659ae0}{𝔫𝔬𝔱}$ $\color{#535cc9}{𝔩𝔬𝔬к𝔦𝔫𝔤}$ $\color{#8053c9}{𝔣𝔬𝔯}$ $\color{#ac53c9}{𝔞𝔫𝔶}$ $\color{#c953c5}{𝔯𝔬𝔪𝔞𝔫𝔱𝔦𝔠}$ $\color{#cc419e}{𝔯𝔢𝔩𝔞𝔱𝔦𝔬𝔫𝔰𝔥𝔦𝔭𝔰.}$ </p>
 
+<p align="center"> <img src="https://github.com/Candiedwraith/Candiedwraith/blob/65f47f78e3dd55a5a0300434067b26623778c975/clouds.png" witdh="20" height="20" /> $\color{#ed6d66}{ℌ𝔢𝔞𝔳𝔶}$ $\color{#f2a572}{𝔱𝔬𝔲𝔠𝔥}$ $\color{#f2d972}{𝔠𝔬𝔪𝔣𝔬𝔯𝔱,}$ $\color{#b8db67}{ℭ+ℍ}$ $\color{#92cf5d}{𝔞𝔩𝔴𝔞𝔶𝔰!}$ </p>
 
 
 <p align="center"> <img width="400" height="300" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/02bf25eacbc87218d86b99d44faa9318b3c461c3/bubbles.webp" />
