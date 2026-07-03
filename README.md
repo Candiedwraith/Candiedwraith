@@ -20,7 +20,7 @@
 
 <img width="1364" height="183" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/1c2a7c258f3b18d475883ee820ab1267d3f412c2/moonbanner.png" />
 
-<p align="left"> <img width="300" height="400" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/fe6a991b4fa1cb5b5eb7f8263d6e69f0e8254dda/spamton.png" />
+<p align="left"> <img width="300" height="400" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/16cbd4d639f28ff4743b84c843d9dface12f7207/spammy.png" />
 
 <p>  <img align="center" src="https://github.com/Candiedwraith/Candiedwraith/blob/7f894651247de742c453127e706b88330ebc41a9/starfall.webp" witdh="400" height="200"> </p>
 
