@@ -40,3 +40,5 @@
 <p align="center"> <img width="400" height="400" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/400c7dbb7dbb7f6a05953cc058c65cc124205efa/asrieldreemurristhisyou.webp" />
 
 <p align="center"> <img width="900" height="900" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/ff672d10a0fdfd05ccb11d930363552ce6c72a16/stardivider.png" />
+
+<img align="right" src="https://github.com/Candiedwraith/Candiedwraith/blob/90e72d96d70e5af96c531c675c6b4e2348dd9c9d/noelle.png" witdh="380" height="400">
