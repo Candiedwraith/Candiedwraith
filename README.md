@@ -38,3 +38,5 @@
 <p align="center"> <img src="https://github.com/Candiedwraith/Candiedwraith/blob/65f47f78e3dd55a5a0300434067b26623778c975/clouds.png" witdh="20" height="20" /> $\color{#ed6d66}{𝓟𝔩𝔢𝔞𝔰𝔢}$ $\color{#f2a572}{𝔡𝔬𝔫'𝔱}$ $\color{#f2d972}{𝔠𝔬𝔭𝔶}$ $\color{#b8db67}{𝔪𝔶}$ $\color{#92cf5d}{𝔭𝔬𝔫𝔦𝔢𝔰.}$ $\color{#5dcf6a}{𝔏𝔦𝔤𝔥𝔱}$ $\color{#65e0a9}{𝔦𝔫𝔰𝔭𝔬}$ $\color{#65e0d6}{𝔦𝔰}$ $\color{#65bfe0}{𝔬к𝔞𝔶,}$ $\color{#659ae0}{𝔱𝔥𝔬𝔲𝔤𝔥!}$ </p>
 
 <p align="center"> <img width="400" height="400" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/400c7dbb7dbb7f6a05953cc058c65cc124205efa/asrieldreemurristhisyou.webp" />
+
+<p align="center"> <img width="900" height="900" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/ff672d10a0fdfd05ccb11d930363552ce6c72a16/stardivider.png" />
