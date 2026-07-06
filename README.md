@@ -42,3 +42,5 @@
 <p align="center"> <img width="900" height="900" alt="Image" src="https://github.com/Candiedwraith/Candiedwraith/blob/ff672d10a0fdfd05ccb11d930363552ce6c72a16/stardivider.png" />
 
 <img align="right" src="https://github.com/Candiedwraith/Candiedwraith/blob/90e72d96d70e5af96c531c675c6b4e2348dd9c9d/noelle.png" witdh="380" height="400">
+
+<p align="center"> <img src="https://github.com/Candiedwraith/Candiedwraith/blob/fd685f48a60368d318c063cca4b192c4b226a84e/espeon.png" witdh="30" height="30" /> $\color{#e386a0}{𝔗𝔥𝔢𝔰𝔢}$ $\color{#e0a670}{𝔞𝔯𝔢}$ $\color{#e0c870}{𝔰𝔬𝔪𝔢}$ $\color{#bbe070}{𝔬𝔣}$ $\color{#96e070}{𝔱𝔥𝔢}$ $\color{#70e07d}{𝔭𝔢𝔬𝔭𝔩𝔢}$ $\color{#70e0aa}{ℑ}$ $\color{#70e0d5}{𝔲𝔰𝔲𝔞𝔩𝔩𝔶}$ $\color{#70c2e0}{𝔰𝔦𝔱}$ $\color{#70a5e0}{𝔴𝔦𝔱𝔥:}$ 
